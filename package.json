@@ -1,0 +1,11 @@
+{
+  "name": "web2_node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/brixxt27/web2_node.js.git",
+  "author": "brixxt27 <brixxt27@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
