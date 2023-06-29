@@ -1,15 +1,6 @@
-var name = 'JAYOON';
+let word = 'of';
+let str = 'JavaScript is a versatile scripting language that can be used for a variety ' + word + ' purposes. One such purpose is to count the number ' + word + ' characters in a given string ' + word + ' text. This can be useful for a number of reasons, such as determining the length ' + word + ' a text field input or displaying a character count to users.';
+word = 'jayoon';
 
-var letter = 'The '+name+'++ library includes the same definitions \
-as the  language library organized in the same structure of header files, with the following differences:\
-Each header file has the same name as the ${name} language version but with a "c" prefix and no extension. \
-For example, the ${name}++ equivalent for the ${name} language header file <stdlib.h> is <cstdlib>.'+name;
 
-var letter = `The ${name}++ library includes 
-
-the same definitions
-
-as the  language library organized in the same structure of header files, with the following differences:\
-Each header file has the same name as the ${name} language version but with a "c" prefix and no extension. \
-For example, the ${name}++ equivalent for the ${name} language header file <stdlib.h> is <cstdlib>. ${name}`;
-console.log(letter);
+console.log(str);
